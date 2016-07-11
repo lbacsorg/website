@@ -71,7 +71,7 @@ include_once('header.php');
                     </p></br>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive" src="images/about/about_body.jpg" alt="Cyber Security">
+                    <img class="img-responsive" src="images/About/about_body.jpg" alt="Cyber Security">
                 </div>
         </div>
     </div>
@@ -166,6 +166,7 @@ include_once('header.php');
         </div>
 
     </div>
+    <?php include_once('footer.php'); ?>
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 

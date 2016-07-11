@@ -103,7 +103,7 @@ include_once('header.php');
                 </ul>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="images/about/about_body.jpg" alt="Cyber Security">
+                <img class="img-responsive" src="images/About/about_body.jpg" alt="Cyber Security">
             </div>
         </div>
         <!-- /.row -->
@@ -124,17 +124,9 @@ include_once('header.php');
 
         <hr>
 
-        <!-- Footer -->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
-                </div>
-            </div>
-        </footer>
-
     </div>
     <!-- /.container -->
+        <?php include_once('footer.php'); ?>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>

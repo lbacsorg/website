@@ -159,7 +159,7 @@ include_once('header.php');
             </div>
       </div>
     </div>
-
+    <?php include_once('footer.php'); ?>
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 

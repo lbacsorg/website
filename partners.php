@@ -19,9 +19,6 @@ include_once('header.php');
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-   
-        <!-- Index-Page-CSS -->     
-    <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
 
     <!-- Custom CSS -->
     <link href="css/1-col-portfolio.css" rel="stylesheet">
@@ -51,11 +48,9 @@ include_once('header.php');
         <!-- /.row -->
 
         <!-- Project One -->
-        <div class="row">
+        <div class="row" id="city">
             <div class="col-md-7">
-                <a href="#">
                     <img class="img-responsive" src="images/partners/partners_downtown.jpg" alt="City of Long Beach">
-                </a>
             </div>
             <div class="col-md-5">
                 <h3>City of Long Beach</h3>
@@ -70,9 +65,7 @@ include_once('header.php');
         <!-- Project One -->
         <div class="row">
             <div class="col-md-7">
-                <a href="#">
                     <img class="img-responsive" src="images/partners/partners_molina.jpg" alt="Molina Healthcare">
-                </a>
             </div>
             <div class="col-md-5">
                 <h3>Molina Healthcare</h3>
@@ -84,11 +77,9 @@ include_once('header.php');
 
         <hr>
         <!-- Project One -->
-        <div class="row">
+        <div class="row" id="industry">
             <div class="col-md-7">
-                <a href="#">
                     <img class="img-responsive" src="images/partners/partners_edison.jpg" alt="Southern California Edison">
-                </a>
             </div>
             <div class="col-md-5">
                 <h3>Southern California Edison</h3>
@@ -101,11 +92,11 @@ include_once('header.php');
         <hr>
 
         <!-- Project One -->
-        <div class="row">
+        <div class="row" id="acads">
             <div class="col-md-7">
-                <a href="#">
+
                     <img class="img-responsive" src="images/partners/partners_lbcc.jpg" alt="Long Beach City College">
-                </a>
+
             </div>
             <div class="col-md-5">
                 <h3>Long Beach City College</h3>
@@ -120,9 +111,9 @@ include_once('header.php');
         <!-- Project One -->
         <div class="row">
             <div class="col-md-7">
-                <a href="#">
+
                     <img class="img-responsive" src="images/partners/partners_lbusd.jpg" alt="Long Beach Unified School District">
-                </a>
+
             </div>
             <div class="col-md-5">
                 <h3>Long Beach Unified School District</h3>
@@ -136,9 +127,9 @@ include_once('header.php');
         <!-- Project One -->
         <div class="row">
             <div class="col-md-7">
-                <a href="#">
+
                     <img class="img-responsive" src="images/partners/partners_csulb.jpg" alt="California State University Long Beach">
-                </a>
+
             </div>
             <div class="col-md-5">
                 <h3>California State University Long Beach</h3>
@@ -153,9 +144,9 @@ include_once('header.php');
         <!-- Project One -->
         <div class="row">
             <div class="col-md-7">
-                <a href="#">
+
                     <img class="img-responsive" src="images/partners/partners_airport.jpg" alt="Long Beach Airport">
-                </a>
+
             </div>
             <div class="col-md-5">
                 <h3>Long Beach Airport</h3>
@@ -167,11 +158,11 @@ include_once('header.php');
 
         <hr>
         <!-- Project One -->
-        <div class="row">
+        <div class="row" id="port">
             <div class="col-md-7">
-                <a href="#">
+
                     <img class="img-responsive" src="images/partners/partners_port.jpg" alt="Port of Long Beach">
-                </a>
+
             </div>
             <div class="col-md-5">
                 <h3>Port of Long Beach</h3>
@@ -185,9 +176,9 @@ include_once('header.php');
         <!-- Project One -->
         <div class="row">
             <div class="col-md-7">
-                <a href="#">
+
                     <img class="img-responsive" src="images/partners/partners_port_la.jpg" alt="Port of Los Angeles">
-                </a>
+
             </div>
             <div class="col-md-5">
                 <h3>Port of Los Angeles</h3>
@@ -195,91 +186,11 @@ include_once('header.php');
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
             </div>
         </div>
+    </div>
         <!-- /.row -->
 
         <hr>
-
-        <!-- Add Footer here-->
-        <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <!-- <p>Copyright &copy; Your Website 2014</p> -->
-                </div>
-            </div>
-            <!-- /.row -->
-        </footer>
-
-    </div>
-    <!-- /.container -->
-    <!-- Hitech Infosletter -->
-    <div class="newsletter" id="signup">
-        <div class="container">
-            <div class="new-grids">
-                <div class="col-md-3 col-sm-6 subscribe">
-                    <p>Sign Up </p>
-                </div>
-                <div class="col-md-9 col-sm-6 email-form">
-                    <form action="#" method="post">
-                        <div class="row">
-                        <div class="col-md-6 col-sm-6 email-form">
-                        <input class="email" type="email" name="FirstName" placeholder="First Name" required>
-                        </div>
-                        </div>
-                        </br>
-
-                        <div class="row">
-                        <div class="col-md-6 col-sm-6 email-form">
-                        <input class="email" type="email" name="LastName" placeholder="Last Name" required>
-                        </div>
-                        </div>
-                        </br>
-
-                        <div class="row">
-                        <div class="col-md-6 col-sm-6 email-form">
-                        <input class="email" type="email" name="Email" placeholder="Email Address" required>
-                        </div>
-                        </div>
-                        </br>
-
-                        <div class="row">
-                        <div class="col-md-6 col-sm-6 email-form">
-                        <input class="email" type="Password" name="Password" placeholder="Password" required>
-                        </div>
-                        </div>
-                        </br>
-                        
-                        <div class="row">
-                        <div class="col-md-6 col-sm-6 email-form">
-                        <input type="submit" class="submit" value="Submit">
-                        </div>
-                        </div>
-
-                    </form>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-    <!-- //Hitech Infosletter -->
-
-
-    <!-- Social -->
-    <div class="social">
-
-        <p>Follow Us On</p>
-
-        <!-- Social-Icons -->
-        <ul class="social-icons">
-            <li><a href="#" class="facebook" title="Go to Our Facebook Page"></a></li>
-            <li><a href="#" class="twitter" title="Go to Our Twitter Account"></a></li>
-            <li><a href="#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
-            <li><a href="#" class="instagram" title="Go to Our Instagram Account"></a></li>
-            <li><a href="#" class="youtube" title="Go to Our Youtube Channel"></a></li>
-        </ul>
-        <!-- //Social-Icons -->
-
-    </div>
-    <!-- //Social -->
+    <?php include_once('footer.php'); ?>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>

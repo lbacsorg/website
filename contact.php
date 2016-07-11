@@ -131,6 +131,7 @@ include_once('header.php');
 
     </div>
     <!-- /.container -->
+    <?php include_once('footer.php'); ?>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>

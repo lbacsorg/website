@@ -1,7 +1,12 @@
 
+    <style type="text/css">
+        .navbar .container .navbar-default{ 
+            height: 3em; 
+        }
 
+    </style>
     <!-- Navigation -->
-    <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+    <nav class="navbar navbar-fixed-top navbar-default" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -16,9 +21,6 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-<!--                     <li>
-                        <a href="Home.html"><strong>LBACS</strong></a>
-                    </li> -->
                     <li>
                         <a href="about.php"><strong>About</strong></a>
                     </li>
@@ -29,7 +31,7 @@
                         <a href="resources.php"><strong>Resources</strong></a>
                     </li>
                     <li>
-                        <a href="events.html"><strong>Events</strong></a>
+                        <a href="#"><strong>Events</strong></a>
                     </li>
                     <li>
                         <a href="eduopt.php"><strong>Educational Opportunities</strong></a>
@@ -48,3 +50,4 @@
         </div>
         <!-- /.container -->
     </nav>
+
