@@ -103,7 +103,7 @@ include_once('header.php');
                 </ul>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="images/about/about_body.jpg" alt="Cyber Security">
+                <img class="img-responsive" src="images/About/about_body.jpg" alt="Cyber Security">
             </div>
         </div>
         <!-- /.row -->
