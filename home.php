@@ -380,13 +380,13 @@
                     <img src="images/security_cert.png" class="img-responsive-new" alt="Website Security Certificate Logo" height="76" width="26">
                 </p>
                 </br>
-                <div class="footer-icons">
+<!--                 <div class="footer-icons">
 
                     <a href="#"><i class="fa fa-facebook"></i></a>
                     <a href="#"><i class="fa fa-twitter"></i></a>
                     <a href="#"><i class="fa fa-linkedin"></i></a>
 
-                </div>
+                </div> -->
             </div>
 
         </footer>
