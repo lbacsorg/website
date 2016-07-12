@@ -1,2 +1,3 @@
-# website
-This is the code for LBACS website
+#LBACS website
+This is the first draft of the HTML Skeleton for the LBACS website.
+

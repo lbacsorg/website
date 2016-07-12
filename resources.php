@@ -50,19 +50,19 @@ include_once('header.php');
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('images/slider_header_downtown.jpg');"></div>
+                <div class="fill" style="background-image:url('images/slider_header_port.jpg');"></div>
                 <div class="carousel-caption">
                 </div>
             </div>
         </div>
     </header>
 
-    <div class="container">
+    <div class="container" id="resources">
       <!-- Example row of columns -->
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">
-                  Cyber Security Resources
+                  Cybersecurity Resources
                 </h1></br></br>
             </div>
             <div class="col-md-4">
@@ -79,7 +79,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i> Cybersecurity Professionals </h4>
+                        <h4><i class="fa fa-fw fa-check"></i> Cybersecurity Professionals </h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -90,7 +90,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-compass"></i>Students</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Students</h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -120,7 +120,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i>Educational Programs</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Teachers &amp Professors</h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -131,7 +131,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-compass"></i>Chief Security Officers </h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Chief Security Officers </h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
@@ -149,7 +149,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-compass"></i>The General Public</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Computer Users</h4>
                     </div>
                     <div class="panel-body">
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>

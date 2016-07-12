@@ -12,7 +12,7 @@ include_once('header.php');
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Educational Opportunities</title>
+    <title>Certifications & Programs</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@ include_once('header.php');
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="fill" style="background-image:url('images/slider_header_downtown.jpg');"></div>
+                <div class="fill" style="background-image:url('images/slider_header_airport.jpg');"></div>
             </div>
         </div>
     </header>
@@ -49,9 +49,7 @@ include_once('header.php');
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Educational Opportunities
-                    <small>Certifications &amp  Programs</small>
-                </h1>
+                <h1 class="page-header">Certifications &amp  Programs</h1>
             </div>
         </div>
         <!-- /.row -->
@@ -78,7 +76,7 @@ include_once('header.php');
         <!-- /.row -->
         </br></br>
     <!-- /.container -->
-    <div class="container">
+    <div class="container" id="certificates">
       <!-- Example row of columns -->
         <div class="row">
             <div class="col-lg-12">
@@ -99,7 +97,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i>Computer Forensics and Investigation</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Computer Forensics and Investigation</h4>
                     </div>
                     <div class="panel-body">
                         <p>Topics include an introduction to principles of digital forensics, evidence collection, preservation and analysis. Topics include investigation principles, data acquisition, OS and memory recovery/analysis, computer network forensics, mobile forensics, legal consideration, ethics, digital evidence control and documentation.  
@@ -111,7 +109,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-compass"></i>Advanced Network Security Certificate</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Advanced Network Security Certificate</h4>
                     </div>
                     <div class="panel-body">
                         <p>This certificate covers computer network security principles, network models and layer security, TCP/IP security, Denial of Service attacks, TLS, wireless network security, Virtual Private Network, cloud computing security, firewall, intrusion detection and prevention as well as laws and regulations related to internet security.
@@ -143,7 +141,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-gift"></i>Compliance, laws, standards, and ethics in Cybersecurity</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Compliance, laws, standards, and ethics in Cybersecurity</h4>
                     </div>
                     <div class="panel-body">
                         <p>This certificate include topics such as basic security and privacy concepts, codes of conducts, digital rights management (DRM), intellectual property laws and regulations, whistleblower protection laws, and ethical hacking. 
@@ -155,7 +153,7 @@ include_once('header.php');
             <div class="col-md-4">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h4><i class="fa fa-fw fa-compass"></i>Security Awareness Education</h4>
+                        <h4><i class="fa fa-fw fa-check"></i>Security Awareness Education</h4>
                     </div>
                     <div class="panel-body">
                         <p>This certificate include topics such as  challenges in data protection, risks to personal data at home, work and in public, various types of attacks and their countermeasures, data management and secure handling of private data, how to stay secure.</p>

@@ -16,13 +16,13 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="home.html">LBACS</a>
+                <a class="navbar-brand" href="home.php">LBACS</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="about.php"><strong>About</strong></a>
+                        <a href="about.php"><strong>About Us</strong></a>
                     </li>
                     <li>
                         <a href="partners.php"><strong>Partners</strong></a>
@@ -30,20 +30,20 @@
                     <li>
                         <a href="resources.php"><strong>Resources</strong></a>
                     </li>
-                    <li>
+<!--                     <li>
                         <a href="#"><strong>Events</strong></a>
-                    </li>
+                    </li> -->
                     <li>
                         <a href="eduopt.php"><strong>Educational Opportunities</strong></a>
                     </li>
-                    <li>
+<!--                     <li>
                         <a href="news.php"><strong>News</strong></a>
-                    </li>
+                    </li> -->
                 </ul>
                 
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href="contact.php"><strong>Contact Us</strong></a></li>
-                    <li><a href="" class="pull-right"><strong>Sign In</strong></a></li>
+                    <li><a href="sign.php" class="pull-right"><strong>Sign Us</strong></a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

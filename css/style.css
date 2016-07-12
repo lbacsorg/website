@@ -46,7 +46,7 @@ input[type="button"], input[type="submit"], .skills button.btn, .skills button.b
 	-ms-transition: 0.5s all;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
 	text-align: center;
@@ -164,7 +164,7 @@ ul.callbacks_tabs {
 
 .logo a {
 	font-family: Petitinho;
-	font-size: 35px;
+	font-size: 45px;
 	color: #FFF;
 	letter-spacing: 1px;
 	line-height: 1;
@@ -457,6 +457,7 @@ ul.callbacks_tabs {
 	text-align: center;
 	margin-top: 20px;
 	color: #777;
+	font-size: 19px;
 }
 
 /*-- Skills --*/
@@ -1563,7 +1564,7 @@ figure.effect-apollo:hover figcaption::before {
 }
 
 .slider3 p {
-	margin: 150px 0 40px;
+	margin: 30px 0 40px;
 	color: #FFF;
 	font-size: 16px;
 	line-height: 30px;

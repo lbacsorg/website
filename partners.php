@@ -21,7 +21,7 @@ include_once('header.php');
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 
     <!-- Custom CSS -->
-    <link href="css/1-col-portfolio.css" rel="stylesheet">
+ <!--    <link href="css/1-col-portfolio.css" rel="stylesheet"> -->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,14 +33,14 @@ include_once('header.php');
 </head>
 
 <body>
-
+ </br></br></br>
     <!-- Page Content -->
     <div class="container">
 
         <!-- Page Heading -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">Our Partners
+                <h1 class="page-header" align="center">Our Partners
                     <small>LBACS Alliance</small>
                 </h1>
             </div>
@@ -48,6 +48,11 @@ include_once('header.php');
         <!-- /.row -->
 
         <!-- Project One -->
+        <div class="row" id="government">
+            <div class="col-lg-12">
+                <h3 class="page-header">Government</h3>
+            </div>
+        </div>
         <div class="row" id="city">
             <div class="col-md-7">
                     <img class="img-responsive" src="images/partners/partners_downtown.jpg" alt="City of Long Beach">
@@ -61,7 +66,22 @@ include_once('header.php');
         <!-- /.row -->
 
         <hr>
-
+        <div class="row">
+            <div class="col-md-7">
+                <img class="img-responsive" src="images/partners/partners_LBPD.jpg" alt="Long Beach Police Department">
+            </div>
+            <div class="col-md-5">
+                <h3>Long Beach Police Department</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <hr>
+        <!-- /.row -->
+        <div class="row" id="employers">
+            <div class="col-lg-12">
+                <h3 class="page-header">Employers</h3>
+            </div>
+        </div>
         <!-- Project One -->
         <div class="row">
             <div class="col-md-7">
@@ -90,6 +110,100 @@ include_once('header.php');
         <!-- /.row -->
 
         <hr>
+        <!-- Project One -->
+        <div class="row">
+            <div class="col-md-7">
+
+                    <img class="img-responsive" src="images/partners/partners_airport.jpg" alt="Long Beach Airport">
+
+            </div>
+            <div class="col-md-5">
+                <h3>Long Beach Airport</h3>
+<!--                 <h4>Subheading</h4> -->
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+        <!-- Project One -->
+        <div class="row" id="port">
+            <div class="col-md-7">
+
+                    <img class="img-responsive" src="images/partners/partners_port.jpg" alt="Port of Long Beach">
+
+            </div>
+            <div class="col-md-5">
+                <h3>Port of Long Beach</h3>
+<!--                 <h4>Subheading</h4> -->
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+        <!-- Project One -->
+        <div class="row">
+            <div class="col-md-7">
+                <img class="img-responsive" src="images/partners/partners_port_la.jpg" alt="Port of Los Angeles">
+            </div>
+            <div class="col-md-5">
+                <h3>Port of Los Angeles</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <hr>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-md-7">
+                <img class="img-responsive" src="images/partners/partners_boeing.jpg" alt="Boeing">
+            </div>
+            <div class="col-md-5">
+                <h3>Boeing</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <hr>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-md-7">
+                <img class="img-responsive" src="images/partners/partners_laserfiche.png" alt="Laserfiche">
+            </div>
+            <div class="col-md-5">
+                <h3>Laserfiche</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <hr>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-md-7">
+                <img class="img-responsive" src="images/partners/partners_memorial.png" alt="Memorial">
+            </div>
+            <div class="col-md-5">
+                <h3>Memorial</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <hr>
+        <!-- /.row -->
+        <div class="row">
+            <div class="col-md-7">
+                <img class="img-responsive" src="images/partners/partners_scan.jpg" alt="Scan">
+            </div>
+            <div class="col-md-5">
+                <h3>SCAN</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
+            </div>
+        </div>
+        <hr>
+        <!-- /.row -->
+
+        <div class="row" id="education">
+            <div class="col-lg-12">
+                <h3 class="page-header">Education</h3>
+            </div>
+        </div>
 
         <!-- Project One -->
         <div class="row" id="acads">
@@ -138,58 +252,8 @@ include_once('header.php');
             </div>
         </div>
         <!-- /.row -->
-
-        <hr>
-
-        <!-- Project One -->
-        <div class="row">
-            <div class="col-md-7">
-
-                    <img class="img-responsive" src="images/partners/partners_airport.jpg" alt="Long Beach Airport">
-
-            </div>
-            <div class="col-md-5">
-                <h3>Long Beach Airport</h3>
-<!--                 <h4>Subheading</h4> -->
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-        <!-- Project One -->
-        <div class="row" id="port">
-            <div class="col-md-7">
-
-                    <img class="img-responsive" src="images/partners/partners_port.jpg" alt="Port of Long Beach">
-
-            </div>
-            <div class="col-md-5">
-                <h3>Port of Long Beach</h3>
-<!--                 <h4>Subheading</h4> -->
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-            </div>
-        </div>
-        <!-- /.row -->
-
-        <hr>
-        <!-- Project One -->
-        <div class="row">
-            <div class="col-md-7">
-
-                    <img class="img-responsive" src="images/partners/partners_port_la.jpg" alt="Port of Los Angeles">
-
-            </div>
-            <div class="col-md-5">
-                <h3>Port of Los Angeles</h3>
-<!--                 <h4>Subheading</h4> -->
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
-            </div>
-        </div>
     </div>
-        <!-- /.row -->
 
-        <hr>
     <?php include_once('footer.php'); ?>
 
     <!-- jQuery -->
