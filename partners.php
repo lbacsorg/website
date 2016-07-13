@@ -40,9 +40,7 @@ include_once('header.php');
         <!-- Page Heading -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header" align="center">Our Partners
-                    <small>LBACS Alliance</small>
-                </h1>
+                <h1 class="page-header" align="center">Partners</h1>
             </div>
         </div>
         <!-- /.row -->

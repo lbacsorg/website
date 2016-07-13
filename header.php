@@ -22,7 +22,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="about.php"><strong>About Us</strong></a>
+                        <a href="about.php"><strong>About</strong></a>
                     </li>
                     <li>
                         <a href="partners.php"><strong>Partners</strong></a>
@@ -34,7 +34,7 @@
                         <a href="#"><strong>Events</strong></a>
                     </li> -->
                     <li>
-                        <a href="eduopt.php"><strong>Educational Opportunities</strong></a>
+                        <a href="eduopt.php"><strong>Certifications &amp Programs</strong></a>
                     </li>
 <!--                     <li>
                         <a href="news.php"><strong>News</strong></a>
@@ -42,8 +42,8 @@
                 </ul>
                 
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="contact.php"><strong>Contact Us</strong></a></li>
-                    <li><a href="sign.php" class="pull-right"><strong>Sign Us</strong></a></li>
+                    <li><a href="contact.php"><strong>Contact</strong></a></li>
+                    <li><a href="sign.php" class="pull-right"><strong>Sign Up</strong></a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

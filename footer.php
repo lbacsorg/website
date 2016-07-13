@@ -26,7 +26,7 @@
                     ·
                     <a href="resources.php">Resources</a>
                     ·
-                    <a href="educopt.php">Certifications</a>
+                    <a href="eduopt.php">Certifications</a>
                     ·
                     <a href="contact.php">Contact</a>
                     ·

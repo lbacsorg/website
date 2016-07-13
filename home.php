@@ -58,13 +58,13 @@
 				<nav class="dr-menu">
 					<div class="dr-trigger"><span class="dr-icon dr-icon-menu"></span></div>
 					<ul>
-						<li><a class="scroll" href="about.php">ABOUT US</a></li>
+						<li><a class="scroll" href="about.php">ABOUT</a></li>
 						<li><a class="scroll" href="partners.php">PARTNERS</a></li>
 						<li><a class="scroll" href="resources.php">RESOURCES</a></li>
 						<!-- <li><a class="scroll" href="#events">EVENTS</a></li> -->
 						<li><a class="scroll" href="eduopt.php">CERTIFICATIONS &amp PROGRAMS</a></li>
 <!-- 						<li><a class="scroll" href="#news">NEWS</a></li> -->
-						<li><a class="scroll" href="contact.php">CONTACT US</a></li>
+						<li><a class="scroll" href="contact.php">CONTACT</a></li>
 						<li><a class="scroll" href="sign.php">SIGN UP</a></li>
 					</ul>
 				</nav>
@@ -104,7 +104,7 @@
 		<div class="container">
 
 			<!-- <h1>ABOUT US</h1> -->
-			<h1><a>BUILDING A CYBER AWARE WORKFORCE</a></h1>
+			<h1><a>BUILDING A CYBER-AWARE WORKFORCE</a></h1>
 			<div class="heading-underline">
 				<div class="h-u1"></div><div class="h-u2"></div><div class="h-u3"></div><div class="clearfix"></div>
 			</div>
@@ -240,7 +240,7 @@
 								<div class="ch-info">
 									<div class="ch-info-front ch-img-4"></div>
 									<div class="ch-info-back">
-										<h4><a href="eduopt.php#certificates">Cyber security Funcamentals</a></h4>
+										<h4><a href="eduopt.php#certificates">Cybersecurity Fundamentals</a></h4>
 										<!-- <p>Certification - 5 weeks</p> -->
 									</div>	
 								</div>
@@ -343,7 +343,7 @@
                     ·
                     <a href="resources.php">Resources</a>
                     ·
-                    <a href="educopt.php">Certifications</a>
+                    <a href="eduopt.php">Certifications</a>
                     ·
                     <a href="contact.php">Contact</a>
                     ·
@@ -351,8 +351,8 @@
                 </p>
                 </br>
                 <div class="text-muted small" >
-					<p>&copy; 2016 Hitech Info. All Rights Reserved.</p>
-					<p>&copy; Designed by: <a href="https://w3layouts.com/">w3layouts.com</a></p>
+					<!-- <p>&copy; 2016 Hitech Info. All Rights Reserved.</p> -->
+					<p><small>&copy; Designed by: <a href="https://w3layouts.com/">w3layouts.com</a></small></p>
 				</div> 
             </div>
 
