@@ -45,8 +45,8 @@ include_once('header.php');
         </div>
         <!-- /.row -->
 
-        <!-- Project One -->
-        <div class="row" id="government">
+
+ <!--        <div class="row" id="government">
             <div class="col-lg-12">
                 <h3 class="page-header">Government</h3>
             </div>
@@ -57,11 +57,11 @@ include_once('header.php');
             </div>
             <div class="col-md-5">
                 <h3>City of Long Beach</h3>
-<!--                 <h4>Subheading</h4> -->
+
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
             </div>
         </div>
-        <!-- /.row -->
+
 
         <hr>
         <div class="row">
@@ -74,41 +74,41 @@ include_once('header.php');
             </div>
         </div>
         <hr>
-        <!-- /.row -->
+
         <div class="row" id="employers">
             <div class="col-lg-12">
                 <h3 class="page-header">Employers</h3>
             </div>
         </div>
-        <!-- Project One -->
+
         <div class="row">
             <div class="col-md-7">
                     <img class="img-responsive" src="images/partners/partners_molina.jpg" alt="Molina Healthcare">
             </div>
             <div class="col-md-5">
                 <h3>Molina Healthcare</h3>
-<!--                 <h4>Subheading</h4> -->
+
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
             </div>
         </div>
-        <!-- /.row -->
+
 
         <hr>
-        <!-- Project One -->
+
         <div class="row" id="industry">
             <div class="col-md-7">
                     <img class="img-responsive" src="images/partners/partners_edison.jpg" alt="Southern California Edison">
             </div>
             <div class="col-md-5">
                 <h3>Southern California Edison</h3>
-<!--                 <h4>Subheading</h4> -->
+
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
             </div>
         </div>
-        <!-- /.row -->
+
 
         <hr>
-        <!-- Project One -->
+
         <div class="row">
             <div class="col-md-7">
 
@@ -117,14 +117,13 @@ include_once('header.php');
             </div>
             <div class="col-md-5">
                 <h3>Long Beach Airport</h3>
-<!--                 <h4>Subheading</h4> -->
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
             </div>
         </div>
-        <!-- /.row -->
+
 
         <hr>
-        <!-- Project One -->
+
         <div class="row" id="port">
             <div class="col-md-7">
 
@@ -133,14 +132,13 @@ include_once('header.php');
             </div>
             <div class="col-md-5">
                 <h3>Port of Long Beach</h3>
-<!--                 <h4>Subheading</h4> -->
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.Laudantium veniam exercitationem expedita laborum at voluptate. Labore, voluptates totam at aut nemo deserunt rem magni pariatur quos perspiciatis atque eveniet unde.</p>
             </div>
         </div>
-        <!-- /.row -->
+
 
         <hr>
-        <!-- Project One -->
+
         <div class="row">
             <div class="col-md-7">
                 <img class="img-responsive" src="images/partners/partners_port_la.jpg" alt="Port of Los Angeles">
@@ -151,7 +149,7 @@ include_once('header.php');
             </div>
         </div>
         <hr>
-        <!-- /.row -->
+
         <div class="row">
             <div class="col-md-7">
                 <img class="img-responsive" src="images/partners/partners_boeing.jpg" alt="Boeing">
@@ -162,7 +160,7 @@ include_once('header.php');
             </div>
         </div>
         <hr>
-        <!-- /.row -->
+
         <div class="row">
             <div class="col-md-7">
                 <img class="img-responsive" src="images/partners/partners_laserfiche.png" alt="Laserfiche">
@@ -173,7 +171,7 @@ include_once('header.php');
             </div>
         </div>
         <hr>
-        <!-- /.row -->
+
         <div class="row">
             <div class="col-md-7">
                 <img class="img-responsive" src="images/partners/partners_memorial.png" alt="Memorial">
@@ -184,7 +182,7 @@ include_once('header.php');
             </div>
         </div>
         <hr>
-        <!-- /.row -->
+
         <div class="row">
             <div class="col-md-7">
                 <img class="img-responsive" src="images/partners/partners_scan.jpg" alt="Scan">
@@ -195,7 +193,7 @@ include_once('header.php');
             </div>
         </div>
         <hr>
-        <!-- /.row -->
+ -->
 
         <div class="row" id="education">
             <div class="col-lg-12">
