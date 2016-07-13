@@ -104,7 +104,7 @@
 		<div class="container">
 
 			<!-- <h1>ABOUT US</h1> -->
-			<h1><a>BUILDING A CYBER-AWARE WORKFORCE</a></h1>
+			<h1><a>BUILDING A CYBER AWARE WORKFORCE</a></h1>
 			<div class="heading-underline">
 				<div class="h-u1"></div><div class="h-u2"></div><div class="h-u3"></div><div class="clearfix"></div>
 			</div>
